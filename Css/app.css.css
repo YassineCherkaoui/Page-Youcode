@@ -1,0 +1,195 @@
+html {
+    font-family: 'Exo 2', sans-serif;
+    font-size:20px;
+
+    
+}
+
+header {
+    
+  
+    
+    background-image:url(../img/Home\ FO.jpg);
+
+    height:500px;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+    
+
+  
+  
+   
+}
+
+h1{
+
+    color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing:10px;
+    word-spacing: 4px;
+    padding:20px;
+    padding-top:20px;
+}
+
+.nav {
+    
+    background-color:blue;
+ 
+}
+
+
+.topnav {
+    
+   
+    list-style-type:none;
+    float:right;
+  
+    
+  
+}
+
+li {
+   
+   
+   display:inline-block;
+   margin:30px 20px 5px 0px;
+   font-size:110%;
+   
+ 
+}
+
+.con{
+    
+    margin-right:50px;
+}
+
+
+.calltoaction {
+    position:absolute;
+    top:30%;
+    left:10%;
+    
+}
+
+a {
+    text-decoration:none;
+    color:aliceblue;
+    
+}
+
+
+
+.bot {
+    padding:10px 30px;
+    border: 1px solid ;
+    border-radius: 20px;
+
+    background: none;
+    color:white;
+    margin-top:20px;
+    margin-left: 150px;
+    
+}
+
+.bot:hover {
+    border: 1px solid white;
+    border-radius: 20px;
+    background: white;
+    color: black;
+
+}
+.bot2 {
+    padding:10px 30px;
+    border: 1px solid white;
+    border-radius: 20px;
+
+    background: blue;
+    color:white;
+    margin-top:20px;
+    margin-left: -0px;
+    
+}
+
+.bot2:hover {
+    border: 1px solid white;
+    border-radius: 20px;
+    background: white;
+    color: gray;
+
+}
+
+img {
+    
+    position:absolute;
+    top:20px;
+    left:15px;
+    width: 150px;
+    height:100px;
+}
+
+
+
+
+
+.service {
+   
+
+    margin-top:20px;
+    width:80%;
+    margin-left:10%;
+    display: flex;
+
+ 
+}
+
+
+h3{
+    text-align: center;
+    font-size: 50px;
+    font-family: serif;
+}
+
+
+
+
+
+
+
+
+
+.box {
+    width: 80%;
+    margin-left: auto;
+}
+p{
+    color: black;
+    margin-top: -30px;
+    text-align: center;
+    margin-left: 180px;
+}
+.play{
+    background-size: 50px;
+}
+.material-icons.md-48 {
+    
+    
+    margin-left: 30%;
+    font-size: 48px;
+    letter-spacing: 2px;
+    
+}
+.heart{
+    background-image: url(../img/heart.png);
+    margin-left: 30%;
+    font-size: 48px;
+    letter-spacing: 2px;
+}
+
+
+
+
+.mehr {
+    letter-spacing: 7px;
+    
+}

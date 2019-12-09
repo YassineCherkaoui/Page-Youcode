@@ -1,0 +1,167 @@
+.d1{
+    background-image: url(../img/Safi.png);
+    width: 100%;
+    height: 765px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+
+}
+
+nav{
+    background-color: black;
+    width: 100%;
+    height: 60px;
+    position: fixed;
+    z-index: 2;
+    margin-top: -10px;
+    
+  
+    
+}
+
+ul{
+    width: 100%;
+    height: 100%;
+    margin-top: 17px;
+    display: flex;
+}
+ul li{
+    margin:-10px 50px auto auto;
+  
+    padding: 10px;
+    list-style-type: none;
+width: 10%;
+height: 100%;
+
+}
+li a{
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    
+}
+
+li:first-child{
+    text-align:left ;
+}
+#a5{
+    font-weight: bold;
+ 
+background-color: rgb(23, 137, 230);
+padding: 10px;
+border-radius: 10px ;
+}
+
+#select1{
+    background-color: black;
+    border: none;
+    color: white;
+
+}
+#select1 option{
+    background-color: white;
+    color: black;
+}
+.div1{
+    position: relative;
+    z-index: 1;
+    margin-top: -400px;
+    font-size: 60px;
+    color: white;
+    text-align: center;
+  
+}
+.link1{
+padding: 10px;
+border:1.5px solid white ;
+text-decoration: none;
+color: white;
+border-radius: 30px;
+}
+.link2{
+padding: 10px;
+text-decoration: none;
+color: white;
+border-radius: 30px;
+
+background-color: rgb(23, 137, 230);
+box-shadow: 1px 1px 0px rgb(23, 137, 230);
+}
+.link2:hover{
+    color: gray;
+    background-color: white;
+    box-shadow: none;
+}
+.link1:hover{
+    color: black;
+    background-color:white ;
+   
+}
+#paragraph1{
+    color: white;
+    font-size: 50px;
+    margin-top: -50px;
+}
+.img{
+
+   width: 30%;
+   height: 100%;
+animation: animpic 1s infinite  ;
+   
+}
+@keyframes animpic{
+    from{
+        background-image: url(..img/Safi1.jpg);
+    }
+    to{
+        background-image: url(../img/Safi1.jpg);
+    }
+}
+.paragraphep{
+    color: black;
+    font-size: 20px;
+ 
+    width: 50%;
+   height: 100%;
+}
+.ddv1{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    
+}
+.ddv2{
+    width: 100%;
+    height: 1px;
+    display: flex;
+    
+}
+.img2{
+    
+    width: 30%;
+    height: 50%;
+    margin-top: 300px;
+    
+ }
+ .para{
+    color: black;
+    font-size: 20px;
+ 
+    width: 60%;
+   height: 300%;
+   margin-top: 500px;
+}
+.img22{
+    margin-top: 500px;
+}
+.para1{
+    color: black;
+    font-size: 20px;
+ 
+    width: 60%;
+   height: 300%;
+   margin-top: 590px;
+
+}
