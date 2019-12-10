@@ -39,7 +39,7 @@ h1{
   }
   
   
-  /* demo styles */
+ 
   
   @import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
   body{
@@ -77,7 +77,7 @@ h1{
   }
   
   
-  /* for custom scrollbar for webkit browser*/
+  
   
   ::-webkit-scrollbar {
       width: 6px;

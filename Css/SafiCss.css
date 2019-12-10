@@ -27,9 +27,9 @@ ul{
     display: flex;
 }
 ul li{
-    margin:-10px 50px auto auto;
+    margin:-10px 30px auto auto;
   
-    padding: 10px;
+    padding: 5px;
     list-style-type: none;
 width: 10%;
 height: 100%;
@@ -50,8 +50,8 @@ li:first-child{
     font-weight: bold;
  
 background-color: rgb(23, 137, 230);
-padding: 10px;
-border-radius: 10px ;
+padding: 8px;
+border-radius: 8px ;
 }
 
 #select1{
